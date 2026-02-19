@@ -4,7 +4,7 @@
 ### 💻 Full-Stack MERN Developer | 🚀 API-Driven Systems | 🌍 Remote-Ready
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/okFG5aJWqRGMYXoKTD/giphy.gif" alt="coding GIF" width="380"/>
+  <img src="https://media4.giphy.com/media/okFG5aJWqRGMYXoKTD/giphy.gif" alt="coding GIF" width="300"/>
 </p>
 
 ---
