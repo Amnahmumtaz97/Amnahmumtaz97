@@ -10,19 +10,17 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN-Full%20Stack-3C873A?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Remote-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Applications-black?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Clean-Code-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API-Development-orange?style=for-the-badge"/>
-</p>
-<p align="center">
   <a href="https://www.linkedin.com/in/amnah-mumtaz-ahmad-18741b365">
     <img src="https://img.shields.io/badge/LinkedIn-Amnah%20Mumtaz%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <img src="https://img.shields.io/badge/MERN-Full%20Stack-3C873A?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Remote-success?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Applications-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean-Code-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API-Development-orange?style=for-the-badge"/>
 </p>
 
 ---
