@@ -92,9 +92,8 @@ I aim to create structured systems that are ready for real-world scaling.
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="terminal code animation" width="380"/>
+  <img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" alt="fast code typing" width="280"/>
 </p>
-
 
 ---
 
