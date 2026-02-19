@@ -80,6 +80,10 @@ I aim to create structured systems that are ready for real-world scaling.
 </p>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="hack coding GIF" width="380"/>
+</p>
+---
 
 ## 📚 Additional Knowledge
 
@@ -88,11 +92,6 @@ I aim to create structured systems that are ready for real-world scaling.
 <img src="https://img.shields.io/badge/Computer_Networking-00599C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Risk_Assessment-4CAF50?style=for-the-badge"/>
-</p>
-
----
-<p align="center">
-  <img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" alt="fast code typing" width="280"/>
 </p>
 
 ---
