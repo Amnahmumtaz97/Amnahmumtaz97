@@ -92,9 +92,7 @@ I aim to create structured systems that are ready for real-world scaling.
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCV8R9u8h1j3k7G/giphy.gif" alt="coding gif" width="600"/>
-</p>
+<p align="center"> <img src="" alt="neon cyberpunk cityscape GIF" width="500"/> </p></p>
 
 ---
 
