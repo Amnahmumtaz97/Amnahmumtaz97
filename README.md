@@ -91,10 +91,10 @@ I aim to create structured systems that are ready for real-world scaling.
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://media.giphy.com/media/LnYHPq6pGsyM4/giphy.gif" alt="coding binary animation" width="380"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="typing code animation" width="380"/>
 </p>
+
 ---
 
 # 🧩 What I Can Build
