@@ -92,15 +92,23 @@ I aim to create structured systems that are ready for real-world scaling.
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCV8R9u8h1j3k7G/giphy.gif" alt="coding gif" width="600"/>
+</p>
+
+---
+
 # 🧩 What I Can Build
 
-🚀 Full-Stack MERN Applications
-🔐 Secure Authentication Systems
-📊 Dynamic Dashboards
-🛒 CRUD-Based Platforms
-📱 Responsive UI Systems
-🧱 Modular Backend Architectures
-🌐 API-Integrated Applications
+<p align="center">
+<img src="https://img.shields.io/badge/🚀 Full-Stack_MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔐 Secure_Auth-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📊 Dynamic_Dashboards-00C9A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🛒 CRUD_Platforms-FFB800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📱 Responsive_UI-7952B3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧱 Modular_Backend-339933?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐 API_Integrated-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
