@@ -4,7 +4,7 @@
 ### 💻 Full-Stack MERN Developer | 🚀 API-Driven Systems | 🌍 Remote-Ready
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNpamM1OTdsenM0dXVmbWJ0Y3hmejUyYjYzdmx4dXd6eGxkbzRkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif)" width="380"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="380"/>
 </p>
 
 ---
@@ -80,9 +80,11 @@ I aim to create structured systems that are ready for real-world scaling.
 </p>
 
 ---
+
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="hack coding GIF" width="380"/>
 </p>
+
 ---
 
 ## 📚 Additional Knowledge
