@@ -92,10 +92,7 @@ I aim to create structured systems that are ready for real-world scaling.
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3xIyaNr6Q6kOOEJHyM/giphy.gif" alt="neon creative coding gif" width="600">
-</p>
-
+<p align="center"> <img src="" alt="rainbow matrix code GIF" width="500"/> <br><em>Colorful neon code cascade</em> </p>
 ---
 
 # 🧩 What I Can Build
