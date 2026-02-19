@@ -109,7 +109,7 @@ I aim to create structured systems that are ready for real-world scaling.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="hack coding GIF" width="380"/>
+  <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" alt="coding gif" width="380"/>
 </p>
 
 ---
