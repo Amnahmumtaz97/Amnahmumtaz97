@@ -92,7 +92,7 @@ I aim to create structured systems that are ready for real-world scaling.
 
 ---
 
-<p align="center"> <img src="" alt="neon cyberpunk cityscape GIF" width="500"/> </p></p>
+<p align="center"> <img src="" alt="neon cyberpunk cityscape GIF" width="500"/> </p>
 
 ---
 
