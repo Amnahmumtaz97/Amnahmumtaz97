@@ -1,93 +1,134 @@
-Amnah Mumtaz Ahmad
-Full-Stack MERN Engineer | Scalable Web Applications | Remote-Ready Developer
-<p align="center"> <a href="https://www.linkedin.com/in/amnah-mumtaz-ahmad-18741b365"> <img src="https://img.shields.io/badge/LinkedIn-Amnah%20Mumtaz%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <img src="https://img.shields.io/badge/MERN-Stack-3C873A?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Available-Remote%20Opportunities-success?style=for-the-badge" /> </p>
-👩‍💻 About Me
 
-I am a Full-Stack MERN Developer and Software Engineering student with hands-on experience building scalable, API-driven applications using modern JavaScript technologies.
+# 👋 Hi, I'm Amnah Mumtaz Ahmad
 
-I specialize in developing production-ready full-stack systems with clean architecture, maintainable code, and performance-focused design.
+### 💻 Full-Stack MERN Developer | 🚀 API-Driven Systems | 🌍 Remote-Ready
 
-I am actively seeking international remote roles where I can contribute to high-impact products, collaborate with global teams, and grow within engineering-driven environments.
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="380"/>
+</p>
 
-🚀 Core Expertise
+---
 
-Architecting full-stack MERN applications
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Full%20Stack-3C873A?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Remote-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Applications-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean-Code-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API-Development-orange?style=for-the-badge"/>
+</p>
 
-Designing and integrating RESTful APIs
+<p align="center">
+  <a href="https://www.linkedin.com/in/amnah-mumtaz-ahmad-18741b365">
+    <img src="https://img.shields.io/badge/LinkedIn-Amnah%20Mumtaz%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-Building responsive, user-focused interfaces
+---
 
-Writing modular, scalable backend services
+# 🚀 About Me
 
-Database modeling with MongoDB
+I build scalable, API-driven full-stack applications using modern JavaScript technologies.
 
-Clean code, Git workflows, and version control
+I focus on:
 
-🛠 Tech Stack
-Frontend Engineering
-<p> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript"/> <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5"/> <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3"/> <img src="https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap"/> </p>
-Backend Engineering
-<p> <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express"/> </p>
-Database & Infrastructure
-<p> <img src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb"/> <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git"/> <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github"/> </p>
-Additional Technical Knowledge
+* ⚡ Performance-first frontend systems
+* 🔐 Secure REST APIs
+* 🧱 Modular backend structure
+* 📱 Responsive UI design
+* 🔄 Maintainable and readable code
 
-React Native
+I aim to create structured systems that are ready for real-world scaling.
 
-Computer Networking (CCNA: Introduction to Networks)
+---
 
-Machine Learning Fundamentals
+# 🛠 Tech Stack
 
-Risk Assessment (Certified e-Learning)
+## 🎨 Frontend
 
-📊 Engineering Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Amnahmumtaz97&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amnahmumtaz97&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-🧠 Engineering Philosophy
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3"/>
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/Responsive%20Design-000000?style=flat"/>
+<img src="https://img.shields.io/badge/UI%2FUX-Aware-purple?style=flat"/>
+</p>
 
-I believe strong software is built on:
+---
 
-Simplicity over unnecessary complexity
+## ⚙️ Backend
 
-Scalable and modular architecture
+<p>
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express"/>
+<img src="https://img.shields.io/badge/REST%20API-000000?style=flat"/>
+<img src="https://img.shields.io/badge/Middleware-000000?style=flat"/>
+<img src="https://img.shields.io/badge/MVC%20Structure-000000?style=flat"/>
+</p>
 
-Clean, readable code
+---
 
-Clear documentation
+## 🗄 Database & Tools
 
-Continuous learning and iteration
+<p>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat"/>
+<img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+</p>
 
-I approach projects with a product mindset — not just writing code, but building solutions.
+---
 
-🌍 Why Hire Me for Remote Roles?
+## 📚 Additional Knowledge
 
-Strong written communication
+<p>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react"/>
+<img src="https://img.shields.io/badge/Computer%20Networking-00599C?style=flat"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat"/>
+<img src="https://img.shields.io/badge/Risk%20Assessment-4CAF50?style=flat"/>
+</p>
 
-Comfortable with Git-based collaboration
+---
 
-Structured problem-solving approach
+# 🧩 What I Can Build
 
-Experience working independently
+🚀 Full-Stack MERN Applications
+🔐 Secure Authentication Systems
+📊 Dynamic Dashboards
+🛒 CRUD-Based Platforms
+📱 Responsive UI Systems
+🧱 Modular Backend Architectures
+🌐 API-Integrated Applications
 
-Time-zone adaptable
+---
 
-Growth-focused and self-driven
+# 📊 GitHub Stats
 
-📌 Career Objective
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amnahmumtaz97&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-To join a globally distributed engineering team where I can:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amnahmumtaz97&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-Contribute to scalable, high-performance applications
+---
 
-Collaborate with senior engineers
+# 📈 Contribution Streak
 
-Grow into advanced backend and system design roles
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Amnahmumtaz97&theme=tokyonight&hide_border=true"/>
+</p>
 
-Deliver real business impact through code
+---
 
-🤝 Let’s Connect
+# 🏆 GitHub Trophies
 
-🔗 LinkedIn:
-https://www.linkedin.com/in/amnah-mumtaz-ahmad-18741b365
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amnahmumtaz97&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
 
-📬 Open to:
-Remote internships | Entry-Level Software Engineering Roles | Full-Stack Developer Positions
+---
