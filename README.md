@@ -1,38 +1,42 @@
 # 👋 Hi, I'm Amnah Mumtaz Ahmad
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+Backend+Engineering+Intern;Next.js+%7C+React+%7C+FastAPI;Building+Scalable+API-Driven+Systems;AI+Integration+%7C+Clean+Code;Open+to+Remote+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+Backend+Engineering+Intern;Next.js+%7C+React+%7C+FastAPI;Building+Scalable+Applications;AI+Integration+%7C+Clean+Code;Open+to+Remote+Opportunities" />
 </p>
 
 ---
 
-### 💻 Full-Stack Developer | 🤖 AI Backend Engineering | ⚡ Next.js Developer
+### 💻 Full-Stack Developer | 🤖 AI Backend Engineering | ⚡ Next.js Developer | 🌍 Remote-Ready
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amnah-mumtaz-ahmad-18741b365">
     <img src="https://img.shields.io/badge/LinkedIn-Amnah%20Mumtaz%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-
   <img src="https://img.shields.io/badge/Next.js-Specialist-000000?style=for-the-badge&logo=next.js"/>
+  <img src="https://img.shields.io/badge/MERN-Full%20Stack-3C873A?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi"/>
   <img src="https://img.shields.io/badge/AI-Integration-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Remote-success?style=for-the-badge"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-I am a **Computer Science student and Full-Stack Developer** focused on building scalable web applications, backend systems, and AI-powered products.
+I build scalable, production-ready web applications and AI-powered systems using modern technologies like Next.js, React, Node.js, FastAPI, and AI integrations.
 
-I specialize in creating modern applications using **Next.js, React, Node.js, FastAPI, and AI integrations**.
+🔹 🤖 AI Backend Engineering Intern at FlyRank  
+🔹 ⚡ Building applications using Next.js App Router  
+🔹 🧠 Developing AI-powered workflows and API-driven systems  
+🔹 🔐 Designing secure REST APIs  
+🔹 🎨 Creating responsive and optimized user interfaces  
+🔹 🛠 Using AI tools like ChatGPT, Claude, and Cursor for development workflows  
+🔹 🌍 Interested in building real-world production systems
 
-🔹 🤖 Currently working as an **AI Backend Engineering Intern at FlyRank**  
-🔹 🧠 Building AI-powered systems and backend APIs  
-🔹 ⚡ Experienced with Next.js App Router and React ecosystems  
-🔹 🔐 Designing REST APIs with authentication and scalable architecture  
-🔹 🧩 Integrating AI tools and APIs into real-world applications  
-🔹 🛠 Use AI development tools like **ChatGPT, Claude, and Cursor** to improve development workflows
+---
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/okFG5aJWqRGMYXoKTD/giphy.gif" alt="coding GIF" width="300"/>
+</p>
 
 ---
 
@@ -42,16 +46,12 @@ I specialize in creating modern applications using **Next.js, React, Node.js, Fa
 
 📅 2026
 
-Working on backend engineering fundamentals and AI-focused development.
-
-Responsibilities and learning areas:
-
-🔹 Building REST APIs using Python FastAPI  
-🔹 Implementing CRUD-based backend systems  
-🔹 Understanding API architecture and request-response flow  
-🔹 Working with Git/GitHub workflows  
-🔹 Exploring AI-assisted development workflows  
-🔹 Documenting APIs using Swagger/OpenAPI
+🔹 Building backend systems using Python FastAPI  
+🔹 Developing CRUD APIs and understanding API architecture  
+🔹 Working with Swagger/OpenAPI documentation  
+🔹 Implementing validation and HTTP status handling  
+🔹 Practicing Git/GitHub workflows  
+🔹 Exploring AI-assisted development workflows
 
 ---
 
@@ -62,143 +62,101 @@ Responsibilities and learning areas:
 🔹 Built responsive UI components using React + Tailwind CSS  
 🔹 Developed reusable frontend components  
 🔹 Integrated frontend applications with REST APIs  
-🔹 Worked with Git and GitHub collaboration workflows  
-🔹 Improved UI performance and responsiveness
+🔹 Worked with Git & GitHub collaboration workflows
 
 ---
 
-# 🧠 Featured Projects
+# 🌟 Featured Projects
 
 ## 🧠 HireQuest — AI Interview Preparation Platform (FYP)
 
-**Tech Stack:**
-Next.js • React • TypeScript • Tailwind CSS • AI APIs
+**Tech Stack:** Next.js • React • TypeScript • Tailwind CSS • AI APIs
 
-An AI-powered interview preparation platform that helps users practice technical and behavioral interviews.
+AI-powered interview preparation platform for technical and behavioral interview practice.
 
 My contributions:
 
-🔹 Designed and developed backend APIs  
+🔹 Developed backend APIs  
 🔹 Integrated AI APIs for interview generation and feedback  
-🔹 Built interview configuration workflows  
-🔹 Designed database structure and application logic  
-🔹 Contributed to frontend development and user experience
+🔹 Designed interview configuration workflows  
+🔹 Worked on database design and application architecture  
+🔹 Contributed to frontend development
 
 ---
 
-## 🛒 GadgetGlam — E-commerce Platform
+## 🛒 GadgetGlam — E-Commerce Platform
 
-**Tech Stack:**
-Next.js • React • Node.js • Express • MongoDB
+**Tech Stack:** Next.js • React • Node.js • Express • MongoDB
 
-A full-stack e-commerce platform.
+Full-stack shopping platform with:
 
-Features:
-
-🔹 Product management system  
-🔹 CRUD operations  
+🔹 Product management  
+🔹 CRUD functionality  
 🔹 API-driven architecture  
-🔹 Responsive frontend design  
+🔹 Responsive UI  
 🔹 Backend integration and deployment
 
 ---
 
-## 🚀 Task API — FastAPI CRUD Backend
+## ⚡ Task API — FastAPI CRUD Backend
 
-**Tech Stack:**
-Python • FastAPI • Swagger • REST API
+**Tech Stack:** Python • FastAPI • Swagger • REST API
 
-A backend API implementing:
+Backend API developed during FlyRank Backend AI Engineering training.
 
-🔹 CRUD operations  
+Features:
+
+🔹 Complete CRUD operations  
+🔹 In-memory task management  
 🔹 Input validation  
 🔹 HTTP status handling  
-🔹 Swagger API documentation  
-🔹 In-memory data management
+🔹 Swagger documentation  
+🔹 GitHub workflow
 
 ---
 
-# ⚙️ Tech Stack
+# 🧠 Tech Stack
 
-## 🎨 Frontend
+## Frontend
 
-<p align="center">
+Next.js • React • TypeScript • JavaScript • Tailwind CSS • HTML • CSS
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+## Backend
 
-</p>
+Node.js • Express.js • Python • FastAPI • REST APIs • Middleware • MVC
 
+## Database & Tools
 
-## ⚙️ Backend & APIs
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/REST%20APIs-FF6F61?style=for-the-badge"/>
-
-</p>
-
-
-## 🗄 Database & Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-
-</p>
+MongoDB • Mongoose • PostgreSQL • Prisma • Git • GitHub • Postman • VS Code
 
 ---
 
 # 🤖 AI Development Tools
 
-<p align="center">
+I use AI tools as development assistants to improve productivity and build better software.
 
-<img src="https://img.shields.io/badge/ChatGPT-AI%20Assistant-10A37F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Claude-AI%20Assistant-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cursor-AI%20IDE-black?style=for-the-badge"/>
-
-</p>
-
-I use AI tools to accelerate development, debug problems, improve code quality, and integrate AI features into applications.
+🔹 ChatGPT — debugging, architecture discussions, and problem solving  
+🔹 Claude — code review and reasoning support  
+🔹 Cursor — AI-assisted development environment
 
 ---
 
 # 📚 Additional Knowledge
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Networks-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-purple?style=for-the-badge"/>
-
-</p>
+🔹 Data Structures & Algorithms  
+🔹 Object-Oriented Programming  
+🔹 Computer Networks  
+🔹 Machine Learning Fundamentals  
+🔹 Software Engineering Practices
 
 ---
 
 # 📈 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amnahmumtaz97&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Amnahmumtaz97&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amnahmumtaz97&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amnahmumtaz97&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -206,11 +164,7 @@ I use AI tools to accelerate development, debug problems, improve code quality, 
 # 🤝 Let's Connect
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/amnah-mumtaz-ahmad-18741b365">
-
-<img src="https://img.shields.io/badge/LinkedIn-Amnah%20Mumtaz%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
+  <a href="https://www.linkedin.com/in/amnah-mumtaz-ahmad-18741b365">
+    <img src="https://img.shields.io/badge/LinkedIn-Amnah%20Mumtaz%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
