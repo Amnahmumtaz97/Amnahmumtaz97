@@ -90,18 +90,147 @@ I am a Computer Science student and Full-Stack Developer focused on building sca
 
 ---
 
-# 🧰 Tech Stack
+# 🧰 Tech Stack & Skills
 
-### Frontend
-Next.js • React • TypeScript • JavaScript • Tailwind CSS • HTML • CSS
-
-### Backend
-Node.js • Express.js • Python • FastAPI • REST APIs
-
-### Database & Tools
-MongoDB • PostgreSQL • Prisma • Git • GitHub • Postman
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,nodejs,express,python,fastapi,mongodb,postgres,prisma,git,github,vscode,postman,docker&perline=10"/>
+</p>
 
 ---
+
+## 🎨 Frontend Development
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</p>
+
+**Frontend Expertise:**
+
+✨ Responsive UI Development  
+✨ Component-Based Architecture  
+✨ Next.js App Router  
+✨ Server & Client Components  
+✨ Performance Optimization  
+✨ Reusable Design Systems  
+✨ API Integration  
+
+---
+
+# ⚙️ Backend Engineering
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/REST_API-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API_Architecture-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Swagger/OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+
+</p>
+
+**Backend Expertise:**
+
+🚀 REST API Development  
+🔐 Authentication & Authorization  
+🧩 Middleware Design  
+📡 Request / Response Handling  
+⚡ CRUD Architecture  
+📚 API Documentation  
+🛠 Backend Validation & Error Handling  
+
+---
+
+# 🗄 Database & ORM
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+
+</p>
+
+**Database Skills:**
+
+🗂 Database Design  
+🔎 Query Optimization  
+🔗 Data Modeling  
+📊 Relational & NoSQL Databases  
+⚡ CRUD Operations  
+
+---
+
+# 🤖 AI Engineering & Developer Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI_API_Integration-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_Workflows-blueviolet?style=for-the-badge"/>
+
+</p>
+
+**AI Development:**
+
+🧠 AI API Integration  
+🤖 LLM-powered Applications  
+⚡ AI-assisted Development  
+🔍 Prompt Engineering Basics  
+🛠 AI Debugging Workflows  
+
+---
+
+# 🛠 Development Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📚 Computer Science Foundation
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Object_Oriented_Programming-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Networks-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software_Engineering-orange?style=for-the-badge"/>
+
+</p>
 
 # 🤖 AI Developer Toolkit
 
